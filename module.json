@@ -20,6 +20,6 @@
   "minimumCoreVersion": "0.6.2",
   "compatibleCoreVersion": "13.348",
   "url": "https://github.com/Phentei/foundry-vtt-SoundBoard-BlitzFreePack",
-  "manifest": "https://github.com/Phentei/foundry-vtt-SoundBoard-BlitzFreePack/blob/main/module.json",
+  "manifest": "https://raw.githubusercontent.com/Phentei/foundry-vtt-SoundBoard-BlitzFreePack/refs/heads/main/module.json",
   "download": "https://github.com/Phentei/foundry-vtt-SoundBoard-BlitzFreePack/archive/master.zip"
 }

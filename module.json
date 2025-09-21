@@ -1,9 +1,9 @@
 {
-  "name": "SoundBoard-BlitzFreePack",
+  "id": "SoundBoard-BlitzFreePack",
   "title": "SoundBoard Pack - Blitz Free Pack",
   "description": "Free Audio Pack - A sounds pack for SoundBoard by Blitz.",
   "version": "1.0.1",
-  "author": "Blitzkraig",
+  "authors": "Blitzkraig",
   "scripts": ["importpack.js"],
   "styles": [],
   "packs": [],
